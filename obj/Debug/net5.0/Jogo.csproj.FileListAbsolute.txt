@@ -1,0 +1,16 @@
+C:\Users\Cleydson Fernando\Desktop\Estágio - Dot.NET\Projetos\Avaliação Técnica\Jogo\obj\Debug\net5.0\Jogo.csproj.AssemblyReference.cache
+C:\Users\Cleydson Fernando\Desktop\Estágio - Dot.NET\Projetos\Avaliação Técnica\Jogo\obj\Debug\net5.0\Jogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cleydson Fernando\Desktop\Estágio - Dot.NET\Projetos\Avaliação Técnica\Jogo\obj\Debug\net5.0\Jogo.AssemblyInfoInputs.cache
+C:\Users\Cleydson Fernando\Desktop\Estágio - Dot.NET\Projetos\Avaliação Técnica\Jogo\obj\Debug\net5.0\Jogo.AssemblyInfo.cs
+C:\Users\Cleydson Fernando\Desktop\Estágio - Dot.NET\Projetos\Avaliação Técnica\Jogo\obj\Debug\net5.0\Jogo.csproj.CoreCompileInputs.cache
+C:\Users\Cleydson Fernando\Desktop\Estágio - Dot.NET\Projetos\Avaliação Técnica\Jogo\bin\Debug\net5.0\Jogo.exe
+C:\Users\Cleydson Fernando\Desktop\Estágio - Dot.NET\Projetos\Avaliação Técnica\Jogo\bin\Debug\net5.0\Jogo.deps.json
+C:\Users\Cleydson Fernando\Desktop\Estágio - Dot.NET\Projetos\Avaliação Técnica\Jogo\bin\Debug\net5.0\Jogo.runtimeconfig.json
+C:\Users\Cleydson Fernando\Desktop\Estágio - Dot.NET\Projetos\Avaliação Técnica\Jogo\bin\Debug\net5.0\Jogo.runtimeconfig.dev.json
+C:\Users\Cleydson Fernando\Desktop\Estágio - Dot.NET\Projetos\Avaliação Técnica\Jogo\bin\Debug\net5.0\Jogo.dll
+C:\Users\Cleydson Fernando\Desktop\Estágio - Dot.NET\Projetos\Avaliação Técnica\Jogo\bin\Debug\net5.0\Jogo.pdb
+C:\Users\Cleydson Fernando\Desktop\Estágio - Dot.NET\Projetos\Avaliação Técnica\Jogo\obj\Debug\net5.0\Jogo.dll
+C:\Users\Cleydson Fernando\Desktop\Estágio - Dot.NET\Projetos\Avaliação Técnica\Jogo\obj\Debug\net5.0\refint\Jogo.dll
+C:\Users\Cleydson Fernando\Desktop\Estágio - Dot.NET\Projetos\Avaliação Técnica\Jogo\obj\Debug\net5.0\Jogo.pdb
+C:\Users\Cleydson Fernando\Desktop\Estágio - Dot.NET\Projetos\Avaliação Técnica\Jogo\obj\Debug\net5.0\Jogo.genruntimeconfig.cache
+C:\Users\Cleydson Fernando\Desktop\Estágio - Dot.NET\Projetos\Avaliação Técnica\Jogo\obj\Debug\net5.0\ref\Jogo.dll
